@@ -26,3 +26,7 @@ Just make sure your include that line _after_ you've included jQuery itself.
 Compatibility
 -------------
 I've not conducted huge swaths of compatibility testing, but it seems to work fine in modern iterations of Safari, FireFox, Chrome, IE9+, etc.  As for jQuery, I think it'd likely work in 1.4+.
+
+Download
+--------
+[Download jQuery.autoTarget v1.0.0](https://github.com/wknechtel/jQuery.autoTarget/archive/v1.0.0.zip)
