@@ -11,7 +11,7 @@ There is a little gotcha when you're writing standards compliant code, but still
 Enter autoTarget
 ----------------
 
-Instead of going through the tedium of ensuring your target attributes are set, this jQuery plugin automatically scans all the links on a page, and sets the attribute for you (target="_blank") if the href attributes domain isn't the same as the domain the page is served from. Just to sweeten the deal, it also sets any offsite link to have a class of "external-link", so you can style offsite links in the manner of your choice.  Easy-peasy. And it only weighs in at 222 bytes!
+Instead of going through the tedium of ensuring your target attributes are set, this jQuery plugin automatically scans all the links on a page, and sets the attribute for you (target="_blank") if the href attributes domain isn't the same as the domain the page is served from. Just to sweeten the deal, it also sets any offsite link to have a class of "external-link", so you can style offsite links in the manner of your choice.  Easy-peasy. And it only weighs in at 272 bytes!
 
 Using autoTarget
 ----------------
