@@ -29,4 +29,4 @@ I've not conducted huge swaths of compatibility testing, but it seems to work fi
 
 Download
 --------
-[Download jQuery.autoTarget v1.0.0](https://github.com/wknechtel/jQuery.autoTarget/archive/v1.0.0.zip)
+[Download jQuery.autoTarget v1.0.0](https://github.com/wknechtel/jQuery.autoTarget/archive/v1.1.0.zip)
